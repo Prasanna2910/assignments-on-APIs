@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#container {
+  display: grid;
+
+  gap: 10px;
+}
+#container > div {
+  border: 2px solid black;
+}
+img {
+  width: 50%;
+}
